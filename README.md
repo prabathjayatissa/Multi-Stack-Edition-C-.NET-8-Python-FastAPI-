@@ -1,10 +1,10 @@
 # Multi-Stack-Edition-C-.NET-8-Python-FastAPI
 
-# 🎓 Software Engineering 3 Lab (BIF)
+
 
 ## Multi-Stack Edition: C# (.NET 8) & Python (FastAPI)
 
-This repository contains the official course structure and reference architecture for the **Software Engineering 3 Lab** (5th semester, BIF program).
+This repository contains the official course structure and reference architecture for the **Software Engineering Degree Programme**.
 
 The course teaches modern backend engineering using **component-based architecture, REST APIs, messaging systems, and DevOps practices**, implemented in either:
 
@@ -22,7 +22,7 @@ Students design and implement a **multi-layer business application** inspired by
 - Booking & reservation systems
 - Billing and invoicing platforms
 - Document management systems
-- Logistics / inventory systems
+- Logistics/inventory systems
 
 The course emphasizes:
 
@@ -98,7 +98,7 @@ Each sprint includes:
 
 ---
 
-## 🟦 Sprint 2 — Domain Modeling & Persistence
+## 🟦 Sprint 2 — Domain Modelling & Persistence
 
 - Domain-driven design basics
 - ORM introduction
